@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - nbgitpuller==1.2.*
+  - jupyter-resource-usage==1.0.*
